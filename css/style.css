@@ -16,8 +16,17 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 110%;
       margin-bottom: 1.5em;
+
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 7%;
+  margin-bottom: 1.5em;
 
 }
 
