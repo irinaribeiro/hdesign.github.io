@@ -936,7 +936,9 @@ body.offcanvas {
     font-size: 14px;
     letter-spacing: 5px;
     margin-bottom: 2em;
-	 margin-left: 20em;
+	 margin-left: 10em;
+	  margin-right: 10em;
+
     display: block; }
 
 .colorlib-lead {
