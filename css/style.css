@@ -123,7 +123,7 @@ figure {
   left: 0;
   overflow-y: scroll;
   z-index: 1001;
-  background: #2C2C2C;
+  background: #181617;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -233,7 +233,7 @@ figure {
     font-size: 15px;
     text-align: center;
     font-weight: 400;
-    color: #2c2c2c;
+    color: #181617;
     padding: 0 20px;
     width: 100%; }
     @media screen and (max-width: 768px) {
@@ -257,12 +257,12 @@ figure {
           color: rgba(255, 255, 255, 0.3);
           padding: 4px; }
 		#colorlib-aside .colorlib-footer  a {
-    color: #2c2c2c;
+    color: #181617;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
             outline: none;
-            color: #2c2c2c; }
+            color: #181617; }
 			#colorlib-aside .colorlib-footer .colorlib-footer2  {
           color: rgba(255, 255, 255, 0.3);
           padding: 4px; }
@@ -414,7 +414,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 270px;
-    background: #2C2C2C;
+    background: #181617;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
