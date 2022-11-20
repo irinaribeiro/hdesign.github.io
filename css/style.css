@@ -61,12 +61,12 @@ body {
       font-size: 16px; } }
 
 a {
-  color: #FFB02A;
+  color: #A96F54;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #FFB02A;
+    color: #A96F54;
     outline: none;
     text-decoration: none !important; }
 
@@ -96,15 +96,15 @@ figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FFB02A; }
+  background: #A96F54; }
 
 ::-moz-selection {
   color: #fff;
-  background: #FFB02A; }
+  background: #A96F54; }
 
 ::selection {
   color: #fff;
-  background: #FFB02A; }
+  background: #A96F54; }
 
 #colorlib-page {
   width: 100%;
@@ -123,7 +123,7 @@ figure {
   left: 0;
   overflow-y: scroll;
   z-index: 1001;
-  background: #181617;
+  background: #0D0D0D;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -194,7 +194,7 @@ figure {
           bottom: 7px;
           left: 0;
           right: 0;
-          background-color: #FFB02A;
+          background-color: #A96F54;
           visibility: hidden;
           -webkit-transform: scaleX(0);
           -moz-transform: scaleX(0);
@@ -217,7 +217,7 @@ figure {
             -o-transform: scaleX(1);
             transform: scaleX(1); }
       #colorlib-aside #colorlib-main-menu ul li.colorlib-active a {
-        color: #FFB02A; }
+        color: #A96F54; }
         #colorlib-aside #colorlib-main-menu ul li.colorlib-active a:after {
           visibility: visible;
           -webkit-transform: scaleX(1);
@@ -233,7 +233,7 @@ figure {
     font-size: 15px;
     text-align: center;
     font-weight: 400;
-    color: #181617;
+    color: #0D0D0D;
     padding: 0 20px;
     width: 100%; }
     @media screen and (max-width: 768px) {
@@ -257,17 +257,17 @@ figure {
           color: rgba(255, 255, 255, 0.3);
           padding: 4px; }
 		#colorlib-aside .colorlib-footer  a {
-    color: #181617;
+    color: #0D0D0D;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
             outline: none;
-            color: #181617; }
+            color: #0D0D0D; }
 			#colorlib-aside .colorlib-footer .colorlib-footer2  {
           color: rgba(255, 255, 255, 0.3);
           padding: 4px; }
 		  #colorlib-aside .colorlib-footer .colorlib-footer2  a {
-          color: #FFB02A;
+          color: #A96F54;
           padding: 4px;
 		  }
 
@@ -327,7 +327,7 @@ figure {
           #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
             cursor: pointer;
             background: transparent;
-            border: 2px solid #FFB02A; }
+            border: 2px solid #A96F54; }
     #colorlib-hero .flexslider .flex-direction-nav {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
@@ -346,7 +346,7 @@ figure {
           bottom: 0;
           right: -15px;
           padding: 30px;
-          background: #FFB02A; }
+          background: #A96F54; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .desc {
               right: 0;
@@ -414,7 +414,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 270px;
-    background: #181617;
+    background: #0D0D0D;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
@@ -477,7 +477,7 @@ body.offcanvas {
     width: 60px;
     height: 4px;
     content: '';
-    background: #FFB02A; }
+    background: #A96F54; }
   .colorlib-heading span {
     display: block; }
   @media screen and (max-width: 768px) {
@@ -550,9 +550,9 @@ body.offcanvas {
         vertical-align: middle;
         color: #000; }
   .steps:hover i {
-    color: #FFB02A !important; }
+    color: #A96F54 !important; }
   .steps.active i {
-    color: #FFB02A !important; }
+    color: #A96F54 !important; }
 
 .fancy-collapse-panel .panel-default > .panel-heading {
   padding: 0; }
@@ -658,7 +658,7 @@ body.offcanvas {
     .colorlib-feature .colorlib-icon i {
       display: table-cell;
       vertical-align: middle;
-      color: #FFB02A;
+      color: #A96F54;
       font-size: 60px;
       height: 100px; }
       @media screen and (max-width: 1200px) {
@@ -680,7 +680,7 @@ body.offcanvas {
   .colorlib-feature.colorlib-feature-sm .colorlib-text {
     margin-top: 30px; }
   .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-    color: #FFB02A;
+    color: #A96F54;
     font-size: 40px; }
     @media screen and (max-width: 1200px) {
       .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
@@ -914,7 +914,7 @@ body.offcanvas {
       width: 100px;
       height: 100px;
       font-size: 50px;
-      color: #FFB02A;
+      color: #A96F54;
       background: #fff;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
@@ -980,11 +980,11 @@ body.offcanvas {
         .colorlib-social li a {
           padding: 10px 8px; } }
       .colorlib-social li a:hover {
-        color: #FFB02A; }
+        color: #A96F54; }
       .colorlib-social li a:hover, .colorlib-social li a:active, .colorlib-social li a:focus {
         outline: none;
         text-decoration: none;
-        color: #FFB02A; }
+        color: #A96F54; }
 
 #map {
   width: 100%;
@@ -1016,19 +1016,19 @@ body.offcanvas {
         -ms-border-radius: 2px;
         border-radius: 2px; }
       .pagination li a:hover, .pagination li a:focus {
-        background: #FFB02A;
+        background: #A96F54;
         color: #fff;
-        border: 1px solid #FFB02A; }
+        border: 1px solid #A96F54; }
       @media screen and (max-width: 768px) {
         .pagination li a {
           padding: 7px 15px; } }
     .pagination li.active a {
-      background: #FFB02A;
-      border: 1px solid #FFB02A !important; }
+      background: #A96F54;
+      border: 1px solid #A96F54 !important; }
       .pagination li.active a:hover, .pagination li.active a:focus {
-        background: #FFB02A;
+        background: #A96F54;
         color: #fff;
-        border: 1px solid #FFB02A !important; }
+        border: 1px solid #A96F54 !important; }
 
 .btn {
   margin-right: 4px;
@@ -1058,18 +1058,18 @@ body.offcanvas {
     outline: none !important; }
 
 .btn-primary {
-  background: #FFB02A;
+  background: #A96F54;
   color: #fff;
-  border: 2px solid #FFB02A; }
+  border: 2px solid #A96F54; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     background: #ffc91a !important;
     border-color: #ffc91a !important; }
   .btn-primary.btn-outline {
     background: transparent;
-    color: #FFB02A;
-    border: 2px solid #FFB02A; }
+    color: #A96F54;
+    border: 2px solid #A96F54; }
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-      background: #FFB02A;
+      background: #A96F54;
       color: #fff; }
 
 .btn-success {
