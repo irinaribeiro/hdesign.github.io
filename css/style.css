@@ -597,9 +597,9 @@ body.offcanvas {
   content: "\ea1c"; }
 
 .panel-heading a.collapsed {
-  background: #fafafa;
+  background: #000;
   border: 1px solid #e6e6e6 !important;
-  color: #333333; }
+  color: #fff; }
 
 .panel-body {
   padding: 1.5em;
